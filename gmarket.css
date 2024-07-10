@@ -33,3 +33,19 @@
         url('https://wefonts.github.io/gmarket/gmarket-Bold.ttf') format("truetype");
     font-display: swap;
 }
+
+.gmarket {
+    font-family: "lineSeed";
+}
+.gmarket300 {
+    font-family: "gmarket";
+    font-weight: 300;
+}
+.gmarket500 {
+    font-family: "gmarket";
+    font-weight: 500;
+}
+.gmarket700 {
+    font-family: "gmarket";
+    font-weight: 700;
+}
